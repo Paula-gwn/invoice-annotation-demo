@@ -5,9 +5,9 @@ The goal was to build a Named Entity Recognition (NER) dataset for invoices by l
 - Set up a project in Label Studio named Invoice Annotation  
 - Imported sample invoices in JSON format
 Created custom labels:
-Invoice_Number
-Date
-Vendor_Name
+Invoice_Number,
+Date,
+Vendor_Name,
 Total_Amount
 - Annotated invoices by highlighting fields and assigning labels
 - Exported structured annotations in CSV/JSON format for downstream ML use
