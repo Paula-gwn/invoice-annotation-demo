@@ -1,0 +1,10 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="layout" toName="image">
+    <Label value="Header"/>
+    <Label value="Table"/>
+    <Label value="Text_Block"/>
+    <Label value="Form_Field"/>
+    <Label value="Footer"/>
+  </RectangleLabels>
+</View>

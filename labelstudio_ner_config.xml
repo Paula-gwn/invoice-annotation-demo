@@ -1,0 +1,10 @@
+<View>
+  <Text name="text" value="$text"/>
+  <Labels name="labels" toName="text">
+    <Label value="Invoice_Number" background="#ffd1dc"/>
+    <Label value="Date" background="#d1e7ff"/>
+    <Label value="Vendor_Name" background="#d1ffd8"/>
+    <Label value="Total_Amount" background="#fff3cd"/>
+    <Label value="Address" background="#f0d1ff"/>
+  </Labels>
+</View>

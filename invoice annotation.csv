@@ -1,0 +1,13 @@
+"annotation_id","annotator","created_at","id","label","lead_time","text","updated_at"
+2,"1","2025-08-24T19:24:07.946485Z",1,"[{""start"":9,""end"":14,""text"":""12345"",""labels"":[""Invoice_Number""]},{""start"":21,""end"":31,""text"":""12\/08\/2025"",""labels"":[""Date""]},{""start"":40,""end"":58,""text"":""Acme Supplies Ltd."",""labels"":[""Vendor_Name""]},{""start"":66,""end"":70,""text"":""€350"",""labels"":[""Total_Amount""]}]",121.661,"Invoice #12345
+Date: 12/08/2025
+Vendor: Acme Supplies Ltd.
+Total: €350","2025-08-24T19:56:52.204135Z"
+3,"1","2025-08-24T19:24:18.246991Z",2,"[{""start"":16,""end"":24,""text"":""2025-876"",""labels"":[""Invoice_Number""]},{""start"":31,""end"":46,""text"":""August 13, 2025"",""labels"":[""Date""]},{""start"":55,""end"":78,""text"":""Bright Office Solutions"",""labels"":[""Vendor_Name""]},{""start"":93,""end"":102,""text"":""$1,245.50"",""labels"":[""Total_Amount""]}]",119.44,"Invoice No: INV-2025-876
+Date: August 13, 2025
+Vendor: Bright Office Solutions
+Total Amount: $1,245.50","2025-08-24T19:55:57.934269Z"
+4,"1","2025-08-24T19:24:28.164293Z",3,"[{""start"":9,""end"":15,""text"":""778899"",""labels"":[""Invoice_Number""]},{""start"":29,""end"":39,""text"":""2025-08-14"",""labels"":[""Date""]},{""start"":53,""end"":81,""text"":""Global Stationery Sp. z o.o."",""labels"":[""Vendor_Name""]},{""start"":95,""end"":107,""text"":""PLN 4,890.00"",""labels"":[""Total_Amount""]}]",24.195,"Invoice: 778899
+Date Issued: 2025-08-14
+Vendor Name: Global Stationery Sp. z o.o.
+Grand Total: PLN 4,890.00","2025-08-24T19:53:57.245157Z"

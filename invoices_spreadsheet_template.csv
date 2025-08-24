@@ -1,0 +1,26 @@
+text,Invoice_Number,Date,Vendor_Name,Total_Amount,Address
+"Invoice Number: INV-1001
+Date: 12/08/2025
+Vendor: Tech Solutions Sp. z o.o.
+Total Amount: €1,250.00
+Address: ul. Marszałkowska 15, Warsaw, Poland",,,,,
+"Invoice Number: 2025-INV-245
+Date: 05/07/2025
+Vendor: Global Supplies Ltd.
+Total Amount: €980.50
+Address: Berlin, Germany",,,,,
+"Invoice Number: INV-4509
+Date: 01/06/2025
+Vendor: FreshFoods Market
+Total Amount: €320.99
+Address: Kraków, Poland",,,,,
+"Invoice Number: AB-2025-889
+Date: 20/05/2025
+Vendor: OfficePro Solutions
+Total Amount: €5,400.00
+Address: Gdańsk, Poland",,,,,
+"Invoice Number: 999-INV-2025
+Date: 15/08/2025
+Vendor: SmartBuild Construction
+Total Amount: €12,750.00
+Address: Wrocław, Poland",,,,,

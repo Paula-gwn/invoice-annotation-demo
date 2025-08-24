@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Invoice #12345\nDate: 12/08/2025\nVendor: Acme Supplies Ltd.\nTotal: €350"
+  },
+  {
+    "text": "Invoice No: INV-2025-876\nDate: August 13, 2025\nVendor: Bright Office Solutions\nTotal Amount: $1,245.50"
+  },
+  {
+    "text": "Invoice: 778899\nDate Issued: 2025-08-14\nVendor Name: Global Stationery Sp. z o.o.\nGrand Total: PLN 4,890.00"
+  }
+]
