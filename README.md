@@ -13,9 +13,9 @@ Total_Amount
 - Exported structured annotations in CSV/JSON format for downstream ML use
 
 🛠️ Tools & Technologies  
-Label Studio (open-source annotation tool)  
-JSON/CSV exports for ML integration  
-GitHub for project versioning & portfolio sharing
+- Label Studio (open-source annotation tool)
+- JSON/CSV exports for ML integration
+- GitHub for project versioning & portfolio sharing
 
 💡 Why This Matters
 
